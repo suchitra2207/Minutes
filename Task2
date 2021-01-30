@@ -1,7 +1,8 @@
-mport java.util.Scanner;
+import java.util.Scanner;
 public class Task2 {
 
     public static void main(String[] Strings) {
+       
         double minsInYear = 60 * 24 * 365;
         Scanner sc = new Scanner(System.in);
         System.out.print("Input the number of minutes: ");
